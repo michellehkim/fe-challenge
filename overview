@@ -1,0 +1,18 @@
+theme: jekyll-theme-cayman
+I started this challenge from scratch and created a new Github page for my work. 
+I was having trouble figuring out Github which caused me to spend a great amount of time on this..besides that, here are a few challenges I faced during this project. 
+
+At the start, I could not get my css and html to connect. This was quickly resloved by checking correcting the stylesheet name.
+Next, I changed the "mins" and "resumes" of the frequency to another line (h3) in order to change the font size accordingly.
+
+Lastly, the greatest challenge was organizing the screen so that the line, destination, frequency and arrows were aligned correctly on the same axis. 
+By making sure I defined the width of the row, I was able to create some alignment.
+I set the display in inline block across all three subjects in css and this solved the alignment problem. 
+Playing around with the padding and margins for the destination also helped.
+
+
+
+
+
+
+
